@@ -77,120 +77,120 @@ var simplemaps_countrymap_mapdata={
     ARA: {
       name: "Salta",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/salta.html"
     },
     ARB: {
       name: "Buenos Aires",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/buenos-aires.html"
     },
     ARC: {
       name: "Ciudad de Buenos Aires",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/ciudad-de-buenos-aires.html"
     },
     ARD: {
       name: "San Luis",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/san-luis.html"
     },
     ARE: {
       name: "Entre Ríos",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/entre-rios.html"
     },
     ARF: {
       name: "La Rioja",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/la-rioja.html"
     },
     ARG: {
       name: "Santiago del Estero",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/santiago-del-estero.html"
     },
     ARH: {
       name: "Chaco",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/chaco.html"
     },
     ARJ: {
       name: "San Juan",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/p/san-juan.html"
     },
     ARK: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/catamarca.html",
       name: "Catamarca",
       description: " "
     },
     ARL: {
       name: "La Pampa",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/2026/02/la-pampa.html"
+      url: "https://libertadmatriculaar.blogspot.com/p/la-pampa.html"
     },
     ARM: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/mendoza.html",
       name: "Mendoza",
       description: " "
     },
     ARN: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/misiones.html",
       name: "Misiones",
       description: " "
     },
     ARP: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/formosa.html",
       name: "Formosa",
       description: " "
     },
     ARQ: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/neuquen.html",
       name: "Neuquén",
       description: " "
     },
     ARR: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/rio-negro.html",
       name: "Río Negro",
       description: " "
     },
     ARS: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/santa-fe.html",
       name: "Santa Fe",
       description: " "
     },
     ART: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/tucuman.html",
       name: "Tucumán",
       description: " "
     },
     ARU: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/chubut.html",
       name: "Chubut",
       description: " "
     },
     ARV: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/tierra-del-fuego.html",
       name: "Tierra del Fuego",
       description: " "
     },
     ARW: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/corrientes.html",
       name: "Corrientes",
       description: " "
     },
     ARX: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://https://libertadmatriculaar.blogspot.com/p/cordoba.html",
       name: "Córdoba",
       description: " "
     },
     ARY: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/jujuy.html",
       name: "Jujuy",
       description: " "
     },
     ARZ: {
-      url: "https://libertadmatriculaar.blogspot.com/",
+      url: "https://libertadmatriculaar.blogspot.com/p/santa-cruz.html",
       name: "Santa Cruz",
       description: " "
     }
