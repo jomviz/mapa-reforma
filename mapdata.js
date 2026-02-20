@@ -127,7 +127,7 @@ var simplemaps_countrymap_mapdata={
     ARL: {
       name: "La Pampa",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com/"
+      url: "https://libertadmatriculaar.blogspot.com/2026/02/la-pampa.html"
     },
     ARM: {
       url: "https://libertadmatriculaar.blogspot.com/",
