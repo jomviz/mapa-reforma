@@ -77,7 +77,7 @@ var simplemaps_countrymap_mapdata={
     ARA: {
       name: "Salta",
       description: " ",
-      url: "https://libertadmatriculaar.blogspot.com.html"
+      url: "https://libertadmatriculaar.blogspot.com/p/salta.html"
     },
     ARB: {
       name: "Buenos Aires",
